@@ -54,7 +54,8 @@ python app.py
 
 ```
 #Ảnh trong chương trình
-<img src="https://github.com/harveycdr/Text2speech/blob/root/Screenshot2024-08-31211549.png" alt="Ảnh chương trình" >
+
+<img src="https://github.com/harveycdr/Text2speech/blob/main/Screenshot2024-08-31211549.png" alt="Ảnh chương trình" >
 
 ## Mô tả 
 
