@@ -1,0 +1,1 @@
+{"voices": [{"name": "voice_1", "url": "https://file01.fpt.ai/text2speech-v5/short/2024-08-31/8a13f334dc7dfaa27261bd1a13573b84.mp3"}, {"name": "voice_2", "url": "https://file01.fpt.ai/text2speech-v5/short/2024-08-31/a786cbb28d17f42629b0af438a06940c.mp3"}, {"name": "voice_3", "url": "https://file01.fpt.ai/text2speech-v5/short/2024-08-31/bc64a38eaaadf8bbe8ce7c66798847b3.mp3"}]}
